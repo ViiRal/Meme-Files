@@ -15,5 +15,5 @@ setInterval(function() {
   } //that's pretty gay
 })
 
-bot.login("MzAxMTU4NjYwNDIyNTAwMzYy.C827gA.wvIac0NZHwgLmFlLKnvOucF2h7I")
+bot.login("no leech plzxd")
 //I'll show a tutorial on how to get a user token
